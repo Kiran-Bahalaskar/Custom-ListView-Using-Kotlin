@@ -1,0 +1,2 @@
+rootProject.name='Custom List View Using Kotlin'
+include ':app'
